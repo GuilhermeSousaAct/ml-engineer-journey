@@ -1,0 +1,6 @@
+Data,Produto,Quantidade,Preco Unitario,Cliente
+2023-10-01,Caneta,50,1.50,João
+2023-10-02,Caderno,30,10.00,
+2023-10-03,Lapis,120,,Maria
+2023-10-04,Borracha,80,0.75,Ana
+2023-10-05,Mochila,,50.00,Pedro
